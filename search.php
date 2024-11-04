@@ -9,11 +9,7 @@
 		<?php the_content(); ?>
 	</div>
 	
-	<?php get_sidebar('melochi'); ?>
-	<?php get_sidebar('preimushestva'); ?>
-	<?php get_sidebar('completed');?>
-	<?php get_sidebar('vigody'); ?>
-	<?php get_sidebar('zamer'); ?>
+	<?php get_sidebar('sections'); ?>
 
 </main>
 <?php get_footer(); ?>
