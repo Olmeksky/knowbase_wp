@@ -5,8 +5,8 @@
 			<p>ИНН 507000000000<br />ОГРНИП 321000000000000</p>
 			<hr />
 			<div class="copy">
-				<p>Предсказания ОНЛАЙН</p>
-				<p>© 2024 Карты судьбы.</p>
+				<p>Демонстрация Простейшей Базы знаний</p>
+				<p>© 2024 База знаний WP.</p>
 				<small>Все права защищены, копирование любой информации запрещено.</small>
 			</div>
 		</div>
@@ -30,7 +30,6 @@
 			</div>
 			<div class="footer-social">
 				<a class="footer-policy" href="/policy/">Полит конф.</a>
-				<a class="footer-policy" href="/randcard/">Карты</a>
 				<a class="footer-policy" href="/map/">Карта сайта</a>
 			</div>
 		</div>
