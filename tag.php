@@ -6,7 +6,7 @@ Template Post Type: post, page, news
 ?>
 <?php get_header(); ?>
 <main>
-<?php get_sidebar('popup');?>
+
 	<div class="container">
 		<h1 class="section__title"><?php the_title(); ?></h1>
 		
@@ -23,12 +23,7 @@ Template Post Type: post, page, news
 		</div>
 	</section>
 	
-	<?php get_sidebar('melochi'); ?>
-	<?php get_sidebar('preimushestva'); ?>
-	<?php get_sidebar('completed_f1');?>
-	<?php get_sidebar('videos');?>
-	<?php get_sidebar('vigody'); ?>
-	<?php get_sidebar('zamer'); ?>
+	<?php get_sidebar('sections'); ?>
 
 </main>
 <?php get_footer(); ?>
